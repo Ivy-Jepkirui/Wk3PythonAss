@@ -11,4 +11,5 @@ A simple Python script that calculates the final price of an item after applying
 2. Run the script:
 
 ```bash
-python discount_calculator.py
+Calculatediscount.py
+
